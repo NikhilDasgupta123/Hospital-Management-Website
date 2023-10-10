@@ -31,10 +31,10 @@ Once `pip` has finished downloading the dependencies:
 ```
 And navigate to `http://127.0.0.1:8000/gocardless/`.
 
-<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/1.PNG" width="128" height="100%">
-<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/2.PNG" width="128" height="100%">
-<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/3.PNG" width="128" height="100%">
-<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/4.PNG" width="128" height="100%">
+<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/1.PNG" width="100">
+<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/2.PNG" width="100" >
+<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/3.PNG" width="100" >
+<img src="https://github.com/NikhilDasgupta123/Hospital-Management-Website/blob/ee1f0fe178ea86db701f2c0ff11101510bce9e83/img/4.PNG" width="100" >
 
 
 
